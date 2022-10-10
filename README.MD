@@ -10,13 +10,13 @@ This project contains two separate folders:
 > * xmlhttpreq_func
 > * fetch_api
 
-## XMLHTTPREQ_FUNC
+## xmlhttpreq_func
 
 ---
 
 This folder houses the logic for performing an ajax request to a PHP file using the native XMLHttpRequest function in javascript.
 
-## FETCH_API
+## fetch_api
 
 ---
 
